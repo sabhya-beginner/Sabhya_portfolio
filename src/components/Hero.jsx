@@ -30,7 +30,7 @@ const Hero = () => {
               <AiOutlineTwitter size={40} />{" "}
             </a>
             <a
-              href="https://github.com/sabhya-beginner"
+              href="https://github.com/sabhya404"
               className="pr-4 inline-block text-accent hover:text-white"
             >
               {" "}
